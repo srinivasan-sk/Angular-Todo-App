@@ -1,0 +1,10 @@
+.error {
+    background: yellow;
+    border: 1px solid yellow;
+    width: 180px;
+}
+
+input,
+label {
+    margin-bottom: 10px;
+}
